@@ -1,2 +1,4 @@
 # Eda_capstone_project
 Eda on play store and user review dataset
+Problem statement : Dataset contains details of play store app  and user review. Like ratings,reviews,type,size, and sentiment with positive and negative. Here, the question comes up: which apps are having more ratings than others ? Are they free or paid ? Which apps are having positive and which are having negative  sentiment in the dataset? What type of apps do people prefer to pay for ? What type of category is in number one or two in getting most reviews and higher ratings ?
+Approach : I tried to find out these question answers in depth with the help of python and its libraries like matplotlib and seaborn. I used the Eda approach of visualization for my findings. I used statistics also to know their distribution within the dataset. I also Compared two variables with the help of heat plot and scatter plot to know the effect of respective variables on getting positive and negative sentiment
